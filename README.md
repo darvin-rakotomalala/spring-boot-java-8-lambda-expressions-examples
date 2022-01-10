@@ -1,12 +1,11 @@
-## pring Boot - Lambda expressions examples
----
-Dans ce projet, nous allons voir quelques exemples de fonctionnalités des expressions Lambda et la méthode ForEach() de Jaba 8.
+## Exemple Spring Boot - Java 8 - expressions Lambda
+Dans ce projet, nous allons voir quelques exemples de fonctionnalités des expressions Lambda et la méthode ForEach() de Java 8.
 
 **Expressions lambda** -  Il s'agit d'une fonction anonyme qui n'a pas de nom, de modificateur d'accès et de type de retour.<br/>
 Syntaxe -
----
+```
 (lambda-arguments) -> {lambda body}
----
+```
 * (lambda-arguments) - nous pouvons avoir un ou plusieurs arguments ou il peut être vide.
 * ->(flèche) - Ceci relie (arguments lambda) et {body}.
 * {corps lambda} – Ici, nous avons une logique de base.
