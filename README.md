@@ -29,9 +29,9 @@ Voyons quelques exemples liés à l'expression lambda. Tous les exemples seront 
 4. Exemple 4 – Dans cet exemple, nous verrons comment écrire l'instruction return dans l'expression lambda.
 5. Exemple 5 – Example implémentation et une interface fonctionnelle
 6. Exemple 6 – Définition de l'interface fonctionnelle en tant que classe interne.
-7. Exemple 7 – 
-8. Exemple 8 – 
-9. Exemple 9 – 
-10. Exemple 10 –
-11. Exemple 11 – 
-12. Exemple 12 –
+7. Exemple 7 – Example en utilisant l'interface Runnable
+8. Exemple 8 – Example opération avec lambda
+9. Exemple 9 – Example lambda avec ArrayList
+10. Exemple 10 – Example lambda expression comprator
+11. Exemple 11 – Example lambda expression iteration avec Thread
+12. Exemple 12 – Example lambda expression avec HashMap
